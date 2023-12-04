@@ -1,4 +1,8 @@
 ### Hi there 👋
+### I am n-leadbetter!
+### I'm a student at Lancaster University, currently working on a project to develop an autonomous robot for radioactive environments.
+### I'm very new to coding, so there's going to be a bit of a learning curve, but with the help of my team, I'm sure there won't be a problem we can't solve.
+## Thank you for reading!
 
 <!--
 **n-leadbetter/n-leadbetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
